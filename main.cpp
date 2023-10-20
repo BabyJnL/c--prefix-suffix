@@ -1,3 +1,11 @@
+/*
+    ** Please don't remove this credit **
+
+    ============================================
+    |    The Program was created by BabyJnL    |
+    ============================================
+*/
+
 #include <iostream>
 #include <string>
 
